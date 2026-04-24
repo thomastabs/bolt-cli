@@ -1,0 +1,8 @@
+streamlit>=1.36.0
+langchain>=0.2.16
+langchain-core>=0.2.40
+langchain-anthropic>=0.1.23
+anthropic>=0.34.0
+requests>=2.32.3
+python-dotenv>=1.0.1
+pydantic>=2.0.0
